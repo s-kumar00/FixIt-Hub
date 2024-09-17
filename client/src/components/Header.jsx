@@ -89,9 +89,9 @@ const Header = () => {
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
             <div className="flex gap-5 justify-between items-center w-3/4 text-2xl">
               <Link to="/" className="flex items-center rtl:space-x-reverse">
-                <p>Home</p>
+                <p>Fixlt</p>
                 <span className="self-center bg-red-600 rounded-l-md rounded-b-lg p-0.5 font-semibold font-serif whitespace-nowrap text-white dark:text-white">
-                  Serviceo
+                  HUB
                 </span>
               </Link>
 
